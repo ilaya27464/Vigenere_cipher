@@ -105,10 +105,8 @@ int main() {
 ### Output:
 
 ## Encryption:
-![Screenshot (476)](https://github.com/ashmistalin/Vigenere_Cipher/assets/103128410/f0e13493-4309-4086-9ed7-88cacaadf333)
 
 ## Decryption:
-![Screenshot (477)](https://github.com/ashmistalin/Vigenere_Cipher/assets/103128410/b4c335dc-6eec-49cc-84e2-39011147c7db)
 
 
 ### Result:
